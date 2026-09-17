@@ -1100,4 +1100,6 @@ CPU
        └── execute()
 ```
 
+rcayre@insa
+
 vous avez construit votre propre **mini-machine virtuelle** en Python.
