@@ -2,9 +2,9 @@
 
     ## Construire un mini processeur en Python
 
-**Durée : 2 heures**
-**Niveau : remise à niveau Python — débutant/intermédiaire**
-**Travail : individuel ou binôme**
+- **Durée : 2 heures**
+- **Niveau : remise à niveau Python — débutant/intermédiaire**
+- **Travail : individuel ou binôme**
 
 ---
 
